@@ -1,4 +1,25 @@
-# myapp
+# Java Jhipster With Filter
+
+Template này được sử dụng cho series Java Spring Restful (dự án jobHunter) của tác giả Hỏi Dân IT (Eric)
+
+## Môi trường dự án
+
+- Java : 17.0.9
+- Node.js : 20.11.1
+
+## Về tác giả
+
+Mọi thông tin về Tác giả Hỏi Dân IT, các bạn có thể tìm kiếm tại đây:
+
+Website chính thức: https://hoidanit.vn/
+
+Youtube “Hỏi Dân IT” : https://www.youtube.com/@hoidanit
+
+Tiktok “Hỏi Dân IT” : https://www.tiktok.com/@hoidanit
+
+Fanpage “Hỏi Dân IT” : https://www.facebook.com/askITwithERIC/
+
+Udemy Hỏi Dân IT: https://www.udemy.com/user/eric-7039/
 
 This application was generated using JHipster 8.2.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.2.1](https://www.jhipster.tech/documentation-archive/v8.2.1).
 
