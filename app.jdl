@@ -1,0 +1,12 @@
+entity Employee {
+	firstName String,
+	lastName String,
+	email String,
+	phoneNumber String,
+	hireDate Instant,
+	salary Long,
+	commissionPct Long
+}
+
+paginate * with pagination
+filter *
